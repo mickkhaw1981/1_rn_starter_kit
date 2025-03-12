@@ -16,7 +16,7 @@ const Index = () => {
         contentContainerStyle={{ flexGrow: 1, justifyContent: "center" }}
       >
         <View className="w-full flex flex-col items-center px-4">
-          <Text className="text-4xl font-bold">Splash Screen</Text>
+          <Text className="text-4xl font-bold">Home</Text>
           <Link href="/profile" style={{ color: "blue" }}>
             Go to Profile
           </Link>
